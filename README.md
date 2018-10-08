@@ -1,1 +1,3 @@
 # ghggu
+
+belajar swift inheritance
